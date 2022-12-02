@@ -1,4 +1,3 @@
-from functools import reduce
 from itertools import groupby
 
 lines = open('./day1/input/input.txt','r').readlines()
